@@ -1,3 +1,24 @@
+# Problem Restatement
+
+This 2020_MCM_Problem_C presents a trading problem where a model needs to be developed to determine daily trading strategies for gold and bitcoin assets based on historical price data. The model aims to maximize total return while considering transaction costs. The trader starts with $1000 on 9/11/2016 and utilizes data from 9/11/2016 to 9/10/2021 to make informed trading decisions.
+
+## Key Points
+- The model considers daily price data for gold and bitcoin assets.
+- Transaction costs are factored into the model, with commission rates of 1% for gold and 2% for bitcoin.
+- The trading strategy aims to optimize the trader's portfolio by deciding whether to buy, hold, or sell assets each day.
+- The model accounts for the trading schedule differences between gold and bitcoin.
+
+## Questions Addressed
+1. **Transaction Cost Consideration:** The model incorporates transaction costs by applying specific commission rates for each asset traded.
+2. **Evidence of Best Strategy:** The report should provide evidence demonstrating that the developed model offers the most effective trading strategy.
+3. **Sensitivity to Transaction Costs:** The sensitivity of the trading strategy to changes in transaction costs is evaluated, highlighting how these costs impact the overall results.
+
+
+
+---
+
+
+
 # How Close to Be a Millionaire?
 
 ## Summary
